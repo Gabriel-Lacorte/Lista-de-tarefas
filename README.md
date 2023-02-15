@@ -19,7 +19,8 @@ Este é um aplicativo simples de lista de tarefas, construído em HTML, CSS e Ja
 
 ## 📷 Capturas de Tela
 
-![Captura de Tela 1](./screnshots/listadetarefa1.png)
+![Captura de Tela 1](screenshots/listadetarefa2.PNG)
+![Captura de Tela 2](screenshots/listadetarefa1.PNG)
 
 ## 🤝 Contribuição
 
